@@ -13,7 +13,7 @@ function Resume() {
       </div>
       <div className="grid grid-cols-3 gap-2">
         <div>
-          <img src="../../public/imgs/resume/pantex.jpg" alt="pantex" className="w-full h-[250px] rounded-2xl object-fill"/>
+          <img src="../../public/pantex.jpg" alt="pantex" className="w-full h-[250px] rounded-2xl object-fill"/>
           <h2 className="text-xl font-bold  mb-2">Pantex Plant/Department of Energy</h2>
           <div className="flex flex-col text-left">
             <span className="pl-4 font-bold">Software Engineer </span>
@@ -23,7 +23,7 @@ function Resume() {
         </div>
 
         <div>
-          <img src="../../public/imgs/resume/pisd.jpg" alt="pantex" className="w-full h-[250px] rounded-2xl object-fill" />
+          <img src="../../public/pisd.jpg" alt="pantex" className="w-full h-[250px] rounded-2xl object-fill" />
           <h2 className="text-xl font-bold  mb-2">Pampa Independent School District </h2>
           <div className="flex flex-col text-left">
             <span className="pl-4 font-bold">Computer Science Educator </span>
@@ -33,7 +33,7 @@ function Resume() {
         </div>
 
         <div>
-          <img src="../../public/imgs/resume/provo.png" alt="pantex" className="w-full h-[250px] rounded-2xl object-fill"/>
+          <img src="../../public/provo.png" alt="pantex" className="w-full h-[250px] rounded-2xl object-fill"/>
           <h2 className="text-xl font-bold  mb-2">Provo Recreation Center </h2>
           <div className="flex flex-col text-left">
             <span className="pl-4 font-bold">Social Media Analyst Intern</span>

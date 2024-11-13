@@ -7,7 +7,7 @@ function AboutMe() {
           <h2 className="text-3xl font-bold mb-8 text-center font-serif">About me</h2>
           <div className="flex flex-col md:flex-row items-center md:items-start justify-center space-y-8 md:space-y-0 md:space-x-12">
             <div className="">
-              <img className="w-[250px] h-[250px] rounded-full object-cover" src="../../public/imgs/contacts/me.jpg" alt="Christopher Smith" />
+              <img className="w-[250px] h-[250px] rounded-full object-cover" src="../../public/me.jpg" alt="Christopher Smith" />
             </div>
             <div className="max-w-2xl text-center md:text-left">
 

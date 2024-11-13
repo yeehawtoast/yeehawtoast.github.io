@@ -8,13 +8,13 @@ function Projects() {
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           <div>
-            <img src="../../public/imgs/projects/fcsproject1.jpg" alt="Free Computer Science Project" className="rounded-2xl" />
+            <img src="../../public/fcsproject1.jpg" alt="Free Computer Science Project" className="rounded-2xl" />
             <h2 className="text-xl font-bold  mb-2">Free Computer Science</h2>
             <p className="text-sm mb-4">This is the large, catch-all project for teaching computer science, for
               free.</p>
             <a className="flex items-center space-x-2">
               <span>See More</span>
-              <img src="../../public/imgs/contacts/github.svg" alt="GitHub" className="size-6" />
+              <img src="../../public/github.svg" alt="GitHub" className="size-6" />
             </a>
             <div className="flex items-start gap-4">
               <a href="https://github.com/Free-Computer-Science/free-computer-science.github.io/stargazers"
@@ -43,12 +43,12 @@ function Projects() {
             </div>
           </div>
           <div>
-            <img src="../../public/imgs/projects/cmdproject2.jpg" alt="Free Computer Science Project" className="rounded-2xl" />
+            <img src="../../public/cmdproject2.jpg" alt="Free Computer Science Project" className="rounded-2xl" />
             <h2 className="text-xl font-bold  mb-2">Command-Line Daily Office</h2>
             <p className="text-sm mb-4">A Console-based version of the Daily Office app, Venite.app</p>
             <a className="flex items-center space-x-2">
               <span>See More</span>
-              <img src="../../public/imgs/contacts/github.svg" alt="GitHub" className="size-6" />
+              <img src="../../public/github.svg" alt="GitHub" className="size-6" />
             </a>
             <div className="flex items-start gap-4 py-2">
               <a href="https://github.com/yeehawtoast/cmddailyoffice/stargazers"
@@ -75,12 +75,12 @@ function Projects() {
             </div>
           </div>
           <div>
-            <img src="../../public/imgs/projects/fcsproject1.jpg" alt="Free Computer Science Project" className="rounded-2xl" />
+            <img src="../../public/fcsproject1.jpg" alt="Free Computer Science Project" className="rounded-2xl" />
             <h2 className="text-xl font-bold  mb-2">Go Chat App</h2>
             <p className="text-sm mb-4">A toy chat app</p>
             <a className="flex items-center space-x-2">
               <span>See More</span>
-              <img src="../../public/imgs/contacts/github.svg" alt="GitHub" className="size-6" />
+              <img src="../../public/github.svg" alt="GitHub" className="size-6" />
             </a>
             <div className="flex items-start gap-4">
               <a href="https://github.com/yeehawtoast/pbl_go_chatapp1/stargazers"
@@ -108,13 +108,13 @@ function Projects() {
             </div>
           </div>
           <div>
-            <img src="../../public/imgs/projects/adventofcode4.jpg" alt="Advent of Code" className="rounded-2xl" />
+            <img src="../../public/adventofcode4.jpg" alt="Advent of Code" className="rounded-2xl" />
             <h2 className="text-xl font-bold  mb-2">Advent of Code</h2>
             <p className="text-sm mb-4">Who Doesn&apos;t Love the Holidays? Answers for the yearly Advent of Code
               challenge</p>
             <a className="flex items-center space-x-2">
               <span>See More</span>
-              <img src="../../public/imgs/contacts/github.svg" alt="GitHub" className="size-6" />
+              <img src="../../public/github.svg" alt="GitHub" className="size-6" />
             </a>
             <div className="flex items-start gap-4">
               <a href="https://github.com/yeehawtoast/adventofcode/stargazers" className="flex items-center space-x-2">
@@ -141,12 +141,12 @@ function Projects() {
             </div>
           </div>
           <div>
-            <img src="../../public/imgs/projects/blockchain5.jpg" alt="Go Blockchain" className="rounded-2xl" />
+            <img src="../../public/blockchain5.jpg" alt="Go Blockchain" className="rounded-2xl" />
             <h2 className="text-xl font-bold  mb-2">Go Toy Block Chain</h2>
             <p className="text-sm mb-4">A toy Blockchain I wrote in Go</p>
             <a className="flex items-center space-x-2">
               <span>See More</span>
-              <img src="../../public/imgs/contacts/github.svg" alt="GitHub" className="size-6" />
+              <img src="../../public/github.svg" alt="GitHub" className="size-6" />
             </a>
             <div className="flex items-start gap-4">
               <a href="https://github.com/yeehawtoast/pbl_go_blockchain/stargazers"
@@ -174,13 +174,13 @@ function Projects() {
             </div>
           </div>
           <div>
-            <img src="../../public/imgs/projects/lessons6.jpg" alt="Free Computer Science Curriculum" className="rounded-2xl" />
+            <img src="../../public/lessons6.jpg" alt="Free Computer Science Curriculum" className="rounded-2xl" />
             <h2 className="text-xl font-bold  mb-2">Free Computer Science Curriculum</h2>
             <p className="text-sm mb-4">Started as the Open Lesson Plan Project, but has evolved into the Free Computer
               Science Curriculum Page</p>
             <a className="flex items-center space-x-2">
               <span>See More</span>
-              <img src="../../public/imgs/contacts/github.svg" alt="GitHub" className="size-6" />
+              <img src="../../public/github.svg" alt="GitHub" className="size-6" />
             </a>
             <div className="flex items-start gap-4">
               <a href="https://github.com/Free-Computer-Science/curriculum/stargazers"
