@@ -6,7 +6,7 @@ function Resume() {
 
         <h1 className="text-3xl font-bold mb-2 text-center">Experience</h1>
         <a>
-          <button className="bg-blue-500 px-3 py-1 rounded text-black items-center space-x-2">Full Resume</button>
+          {/*<button className="bg-blue-500 px-3 py-1 rounded text-black items-center space-x-2">Full Resume</button>*/}
         </a>
       </div>
       <div><h2 className="text-2xl font-bold mb-8 text-center">Computer Science/Software Engineering Experience</h2>
