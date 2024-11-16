@@ -22,11 +22,11 @@ function Contact() {
               <img src="/mail.svg" alt="Connect" className="size-24" />
               Contact
             </a>
-            <a className="text-x1 md:text-2xl text-gray-400 font-bold" href="mailto:cpsmith96@gmail.com">
+            <a className="text-x1 md:text-2xl text-gray-400 font-bold" href="https://dev.to/yeehawtoast">
               <img src="/blog.svg" alt="Blog" className="size-24" />
               Blog
             </a>
-            <a className="text-x1 md:text-2xl text-gray-400 font-bold" href="mailto:cpsmith96@gmail.com">
+            <a className="text-x1 md:text-2xl text-gray-400 font-bold" href="https://instagram.com/chrispybacon_">
               <img src="/fb.svg" alt="Facebook" className="size-24" />
               Meta
             </a>
